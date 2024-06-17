@@ -1,4 +1,4 @@
-<div align="center">
+Z<div align="center">
   <br>
 
   <a href="https://github.com/jeffreytse/jekyll-theme-yat">
@@ -54,9 +54,8 @@
 
 <br>
 
-Hey, nice to meet you, you found this [Jekyll][jekyll] theme. Here the
-_YAT (Yet Another Theme)_ is a modern responsive theme. It's quite
-clear, clean and neat for writers and posts. **If you are an elegant
+Hi, I am a college student majoring in computer science, with intrests in history, music, and game design!
+I love stategy games and play chess semi-seriously. **If you are an elegant
 writer and focus on content, don't miss it.**
 
 <p align="center">
