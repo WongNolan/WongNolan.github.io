@@ -59,8 +59,7 @@ I love stategy games and play chess semi-seriously. **If you are an elegant
 writer and focus on content, don't miss it.**
 
 <p align="center">
-Like this elegant theme? You can give it a star or sponsor me!<br>
-I will respect your crucial support and say THANK YOU!
+
 </p>
 
 <p align="center">

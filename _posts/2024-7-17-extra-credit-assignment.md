@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to my site.
-subtitle: A awesome static site generator.
+subtitle: This site was for an extra credit assignment.
 author: Nolan Wong
 categories: jekyll
 banner:
