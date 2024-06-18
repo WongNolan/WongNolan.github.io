@@ -1,81 +1,28 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-categories: markdown
+title: About me
+subtitle: About the creator of the site, Nolan Wong
+categories: 
 tags: [test]
 ---
+Hi! 
+I am a relatively normal college sophomore currently attending Michigan State University.
+My current major is Computer Science, as I've always been around them all my life, and 
+love to learn how they work, so I can do cool stuff with them.
 
-You can write regular [markdown](https://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+I have a lot of passions not related to my major, and I consider myself to be above average in terms
+of dedication to them. Firstly, I have a strong intrest in history and warfare, as I find that stuff extremely
+intresting and riveting. I'm only marginally more knowledgable about stuff like US history or recent events,
+however I find the events of europe between 1917 and 1939 (The interwar period) to be extremely intresting,
+especially the russian civil war and the associating wars sprung off of it.
 
-**Here is some bold text**
+Other passions involve chess, which I play quite a bit, and do seem to be above average in. I find myself
+intruiged by the ammount of strategy and tactical thinking when playing chess. I think a good skill I
+picked up from that is vertical thinking, which is a fancy way of saying to think ahead. Chess reinforces
+this in the most basic steps possible allowing the game to essentially be a contest of who can think more
+ahead, which I really like.
 
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-### Emoji
-
-This single quote code `inet:email:message:to` will not be parsed to emoji icon
-:+1:.
+I also  have passions for both music and video games. I have some experience as a aclassical piano player,
+and enjoy many differnt types of music. Video game are well and truly my hobby, and I believe there is some
+real merit when it comes to creativity and general intellgence being developed when it comes to competetive
+games.
